@@ -24,13 +24,13 @@ const Navigation=()=>{
             </Link>
           </li>
           <li className="menu-text">
-            <Link to=""><FaHome/><span>First Page</span></Link>
+            <Link to="#"><FaHome/><span>First Page</span></Link>
           </li>
           <li className="menu-text">
-            <Link to=""><FaHome/><span>First Page</span></Link>
+            <Link to="#"><FaHome/><span>First Page</span></Link>
           </li>
           <li className="menu-text">
-            <Link to=""><FaHome/><span>First Page</span></Link>
+            <Link to="#"><FaHome/><span>First Page</span></Link>
           </li>
         </ul>
       </nav>
